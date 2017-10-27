@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 """
 This script returns all hosts and network devices in a tabular list.
 
